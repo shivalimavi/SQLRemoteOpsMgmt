@@ -18,4 +18,8 @@ The database design process in SQL involves identifying essential components, de
 
 In managing the Home Office Operation Management System, various database operations are performed using queries, joins, triggers, stored procedures, and functions. Queries are utilized to retrieve specific data by relating information across different tables. Joins, including INNER JOIN, LEFT OUTER JOIN, and others, are employed to combine data from multiple tables. Triggers, such as BEFORE INSERT and AFTER DELETE, ensure data integrity and automate actions based on events like insertions or deletions. Stored procedures offer reusable and secure ways to execute multiple SQL statements, while stored functions return single values and encapsulate common formulas or business rules for enhanced readability and maintainability. Examples include procedures for updating leave records and automating employee data insertion, along with functions for calculating task completion time and remaining employee leaves.
 
+## Future Scope
+
+Looking ahead, the database has room for continuous innovation, particularly in the areas of access control and cloud backup. As per a Gartner study, a significant portion of databases is expected to migrate to the cloud by 2022. Cloud-based database management systems offer flexible storage options and facilitate remote access to data, a crucial feature in the era of remote work. Additionally, heightened concerns about data security necessitate robust access control mechanisms to safeguard sensitive information. We aim to develop access control measures that restrict database access to relevant team leaders, ensuring the integrity of critical data.
+
 
