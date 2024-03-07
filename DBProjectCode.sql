@@ -1,5 +1,5 @@
-CREATE database Group9;
-USE `Group9`;
+CREATE database OpsMGMT;
+USE `OpsMGMT`;
 
 --
 -- Table structure for table `employees`
